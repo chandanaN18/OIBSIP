@@ -44,6 +44,7 @@ Web-Development-Level1-Task1-LandingPage/
 ## Screenshots
 
 Screenshots of the TechNova landing page are available in the `screenshots` folder.
+![TechNova Landing Page](screenshots/full-website.png)
 
 ## Author
 
