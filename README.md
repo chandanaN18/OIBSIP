@@ -28,10 +28,10 @@ The website is designed as a fictional technology learning platform that helps s
 ```text
 Web-Development-Level1-Task1-LandingPage/
 │
-├── index.html
-├── style.css
+├── screenshots/
 ├── README.md
-└── screenshots/
+├── index.html
+└── style.css
 
 
 ## How to Run
