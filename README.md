@@ -5,6 +5,9 @@
 TechNova is a responsive landing page created as part of the Web Development Level 1 Task 1.
 
 The website is designed as a fictional technology learning platform that helps students learn coding, build projects, and develop career-ready skills.
+### Live Demo
+
+[View the Technova Landing Page](https://chandanan18.github.io/OIBSIP/)
 
 ## Technologies Used
 
