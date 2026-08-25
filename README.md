@@ -1,13 +1,10 @@
-# TechNova – Landing Page
+# Personal Portfolio Website
 
 ## Project Overview
 
-TechNova is a responsive landing page created as part of the Web Development Level 1 Task 1.
+This project is a personal portfolio website created as part of the Web Development Level 1 Task 2.
 
-The website is designed as a fictional technology learning platform that helps students learn coding, build projects, and develop career-ready skills.
-### Live Demo
-
-[View the Technova Landing Page](https://chandanan18.github.io/OIBSIP/)
+The portfolio is designed to showcase my profile, skills, projects, and contact information in a clean and responsive layout.
 
 ## Technologies Used
 
@@ -16,39 +13,63 @@ The website is designed as a fictional technology learning platform that helps s
 
 ## Features
 
-- Responsive landing page design
-- Navigation bar with Home, Features, About, and Contact sections
-- Hero section with a Get Started button
-- Features section
-- About section
+- Responsive personal portfolio design
+- Professional hero/profile section
+- Personal avatar
+- About Me section
+- Technical Skills section
+- Projects section
 - Contact section
-- Email, LinkedIn, and GitHub links
-- Responsive design for mobile and desktop screens
-- Footer section
+- Email contact link
+- LinkedIn profile link
+- GitHub profile link
+- Smooth scrolling navigation
+- Responsive design for desktop and mobile devices
+- Consistent colors, fonts, and layout
+
+## Portfolio Sections
+
+### Home
+
+The Home section introduces me with my name, role, short introduction, professional avatar, and action buttons.
+
+### About Me
+
+A short introduction about my background, interests, and career goals.
+
+### Skills
+
+Displays my technical skills in an organized grid.
+
+### Projects
+
+Showcases my projects with project descriptions and GitHub links.
+
+### Contact
+
+Provides ways to connect with me through Email, LinkedIn, and GitHub.
+
+## Projects Included
+
+### 1. TechNova Landing Page
+
+A responsive technology-themed landing page created using HTML5 and CSS3.
+
+### 2. Banking Information System
+
+A project developed to manage and display banking-related information.
 
 ## Project Structure
 
 ```text
-Web-Development-Level1-Task1-LandingPage/
+Web-Development-Level1-Task2-PersonalPortfolio/
+│
+├── assets/
+│   └── avatar.png
 │
 ├── screenshots/
-├── README.md
+│   └── full-website.png
+│
 ├── index.html
-└── style.css
-
-
-## How to Run
-
-1. Download or clone the project.
-2. Open the project folder.
-3. Open `index.html` in a web browser.
-4. Use the navigation bar to move between sections.
-
-## Screenshots
-
-Screenshots of the TechNova landing page are available in the `screenshots `folder.
-![Technova Landing Page](screenshots/full-website.png)
-
-## Author
-
-Created as part of the Web Development Level 1 Task 1.
+├── style.css
+└── README.md
